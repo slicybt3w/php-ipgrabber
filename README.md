@@ -1,5 +1,5 @@
 # php-ipgrabber
-a simple PHP ip grabber get your victims ip through a discord webhook ones your victim clicks the link you will get their ip
+a simple PHP ip grabber get your victims ip with a discord webhook ones your victim clicks the link you will get their ip
 
 Need help? Join us in discord: https://discord.gg/msUfWvBsyQ
 
